@@ -1,0 +1,5 @@
+a) By assuming that the time to check one article is 10 minutes, we can estimate that this mission would been take us 10 hours approximately.
+
+b) We can conclude by this excersice that using bash scripts can ease searching and scanning in files by making it automatic action. For example we can use script that will download the HW pdf from the Moodle when it will be published.
+
+c) In the workshops we learned about the 'watch' command that allows us repeat a command in any period of time that we choose, so we can write a new script that will autorun our script every hour. We save our articles in list which is organized by sort and uniq commands, so we will be able to notice and seperate between the articles that we already scanned and the new articles. 
